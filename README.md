@@ -10,5 +10,5 @@ This is the repository of my project portfolio. There are XXX projects included 
 2. Slides2
 
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Thinking Baby](![image](https://user-images.githubusercontent.com/31928833/142698152-db4a2d1a-2e8e-4f50-8eff-ecac449b0947.png))
 
