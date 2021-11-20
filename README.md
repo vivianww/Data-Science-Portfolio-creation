@@ -1,5 +1,5 @@
 
-### Data Science Projects Repository
+### Projects Repository
 
 This is the repository of my project portfolio. There are XXX projects included in this portfolio from 200- to 400- level courses.
 
