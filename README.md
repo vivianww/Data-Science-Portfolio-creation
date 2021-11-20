@@ -1,14 +1,18 @@
 
-### Projects Repository
+# Project Portfolio
+## XXX Major
+### First name Last name
 
-This is the repository of my project portfolio. There are XXX projects included in this portfolio from 200- to 400- level courses.
+This repository is the collection of my projects. Below is the list of the courses:
 
-- **Project 1**
-- Project 2
+- **STAT252**
+- _DATA211_
 
-1. _Slides 1_
-2. Slides2
+In each file, you will find the following:
+
+1. The abstract of the project
+2. Looking back at the project
+3. Project details or slides
 
 
-[Link](url) and ![image](https://user-images.githubusercontent.com/31928833/142698152-db4a2d1a-2e8e-4f50-8eff-ecac449b0947.png)
-
+Here is the [Link](https://www.markdownguide.org/basic-syntax/) to more syntax of markdown file.
